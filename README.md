@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Angela
 
-<!--
-**asarno974/asarno974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: End-to-end Tableau & Power BI dashboards and SQL query optimization.
+- 🌱 I’m currently learning: Advanced data modeling and ETL pipelines.
+- 🎯 Goals: Translating complex business datasets into actionable visual insights.
+- ⚡ Fun fact: I get genuine satisfaction from turning messy, multi-table chaos into a single elegant JOIN.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Featured Projects
+
+#### 1. [Sales v Returns Executive Dashboard]
+- Overview: Built an interactive executive dashboard to track customer returns, problematic products, and state-level returns.
+- 🔗 [View Interactive Dashboard on Tableau Public]([https://public.tableau.com/your-tableau-link])
+- (https://public.tableau.com/views/Superstore_Returns_Angela_Sarno/FinalPresentationStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
